@@ -1,0 +1,10 @@
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\bin\Debug\pizzeria.exe
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\bin\Debug\pizzeria.pdb
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\pizzeria.Form1.resources
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\pizzeria.Properties.Resources.resources
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\pizzeria.exe
+c:\users\eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\pizzeria.pdb
+C:\Users\Eldor\documents\visual studio 2010\Projects\pizzeria\pizzeria\obj\x86\Debug\pizzeria.AboutBox1.resources

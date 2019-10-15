@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pizzeria", "pizzeria\pizzeria.csproj", "{35D11D0C-9926-406C-9CD1-BB5528625613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Debug|x86.ActiveCfg = Debug|x86
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Debug|x86.Build.0 = Debug|x86
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Release|x86.ActiveCfg = Release|x86
+		{35D11D0C-9926-406C-9CD1-BB5528625613}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
